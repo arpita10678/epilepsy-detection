@@ -1,0 +1,10 @@
+# Ignore EEG_Project dataset folder
+EEG_Project/dataset/
+
+# Ignore other large or temporary files
+*.zip
+*.npy
+*.h5
+*.pt
+*.ckpt
+.ipynb_checkpoints/
